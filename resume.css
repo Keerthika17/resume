@@ -1,0 +1,140 @@
+.image {
+    padding-bottom: 20px;
+ }
+ 
+ .resumename {
+    text-align: left;
+    color: rgb(18, 18, 61);
+    padding-left: 1px;
+ }
+ .emailname{
+    text-align: left;
+ }
+ .email {
+    margin-top: -10px;
+    text-align: left;
+    color: rgb(54, 39, 18);
+ }
+ 
+ .division {
+    font: left;
+ }
+ 
+ h6 {
+     font-size: medium;
+     font: left;
+     margin-left: -0px;
+  }
+ 
+ table {
+    margin-top: -10px;
+    width: 600px;
+    height: 150px;
+    margin-left:15px;
+ }
+ 
+ td {
+    font-size: smaller;
+ }
+ 
+ .skills {
+    margin-top: -10px;
+ }
+ 
+ ul {
+    margin-top: -20px;
+    font-size: smaller;
+ }
+ 
+ .declaration {
+    margin-top: 10px;
+    background-color: rgb(181, 184, 184)
+ }
+ 
+ .declar {
+    margin-top: -10px;
+    font-size: smaller;
+    margin-left:15px;
+ }
+ .name {
+    margin-top: px;
+    background-color: rgb(181, 184, 184)
+ }
+ 
+ .Trainingproject {
+    background-color: rgb(181, 184, 184)
+ }
+ 
+ .areaofinterest {
+    margin-top:-10px;
+    background-color: rgb(181, 184, 184)
+ 
+ }
+ 
+ .webapplication {
+    margin-top: -2px;
+    font-size: smaller;
+    margin-left:15px;
+ }
+ .sports{
+    margin-top: -2px;
+    font-size: smaller;
+    margin-left:15px;
+ }
+ 
+ .personDetail {
+    margin-top: -2px;
+    background-color: rgb(181, 184, 184)
+ }
+ 
+ .obdef {
+    font-size: smaller;
+ }
+ 
+ .lastvalue {
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ .signature {
+    margin-top: -10px;
+ 
+ }
+ 
+ .image {
+    padding-bottom: 50px;
+    margin-bottom: -65px;
+ }
+ 
+ .Yourssincerely {
+    background-color: rgb(181, 184, 184)
+ }
+ 
+ .table,
+ th {
+    text-align: center;
+ }
+ 
+ .color {
+    background-color: rgb(159, 155, 119)
+ }
+ .obdef{
+    margin-left:15px;
+ }
+ 
+ body{
+    background-image: url(summa.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+ .cover {
+    padding: 10px;
+    background-color: rgba(245, 245, 253, 0.228);
+    box-shadow: 0px;
+    margin: 2%;
+    margin-left: 7%;
+    margin-right: 7%;
+ }
+ h5{
+    padding: 5px;
+ }
